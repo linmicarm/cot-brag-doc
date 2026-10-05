@@ -5,7 +5,9 @@
 > **Update:** every Friday (or after every merged PR) · **Started:** October 2026
 
 **Role:** Developer, slumber-squad (Cherry on Tech dev squad)
+>
 **Project:** [slumber-squad](https://github.com/cherryontech/slumber-squad), a web app that encourages marginalized genders to use AI in the workplace and helps close the AI adoption gap
+>
 **Live site:** [slumber-squad.netlify.app](https://slumber-squad.netlify.app)
 
 ---
